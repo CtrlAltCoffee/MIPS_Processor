@@ -8,7 +8,7 @@ The processor is modelled in Verilog and simulated on Xilinx Vivado. It conisist
 4. Memory
 5. Writeback
 
-![Block Diagram of MIPS Processor](https://github.com/CtrlAltCoffee/MIPS_Processor/assets/diagram.svg)
+![Block Diagram of MIPS Processor](https://github.com/CtrlAltCoffee/MIPS_Processor/assets/diagram.jpg)
 
 Due to the difficulty and complexity of writing programs, there is a python script which will convert assembly code to machine code. 
 
