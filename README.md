@@ -8,6 +8,8 @@ The processor is modelled in Verilog and simulated on Xilinx Vivado. It conisist
 4. Memory
 5. Writeback
 
+![Block Diagram of MIPS Processor](https://github.com/CtrlAltCoffee/MIPS_Processor/assets/diagram.svg)
+
 Due to the difficulty and complexity of writing programs, there is a python script which will convert assembly code to machine code. 
 
 ## Instructions Set
@@ -18,7 +20,7 @@ Due to the difficulty and complexity of writing programs, there is a python scri
     * Or `or`
     * Not Or `nor`
     * Exclusive Or `xor`
-    * Set if Less Than `slt`
+    * Set on Less Than `slt`
     * Shift Left Logical `sll`
     * Shift Right Logical `srl`
     * No Operation `nop`
@@ -40,6 +42,12 @@ Due to the difficulty and complexity of writing programs, there is a python scri
 - [ ] Stalling
 - [ ] Forwarding
 - [ ] Hazard Detection
+- [ ] Control Unit State Machine
 - [ ] Dynamic Branch Prediction
+- [ ] Registers
+- [ ] And Immediate `addi` 
+- [ ] Multiply `mul`
+- [ ] Divide `div`
+- [ ] Set on Less Than Immediate `slti`
 - [ ] Unsigned Integers
 - [ ] Cache
