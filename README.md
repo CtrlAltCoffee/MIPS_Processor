@@ -39,14 +39,14 @@ Due to the difficulty and complexity of writing programs, there is a python scri
     * Branch if not Equal `bne`
 
 ## Features
-- [ ] Stalling
-- [ ] Forwarding
-- [ ] Hazard Detection
-- [ ] Control Unit State Machine
-- [ ] Dynamic Branch Prediction
-- [ ] Registers
-- [ ] And Immediate `addi` 
-- [ ] Multiply `mul`
+- [x] Stalling
+- [x] Forwarding
+- [x] Hazard Detection
+- [x] Control Unit State Machine
+- [x] Dynamic Branch Prediction
+- [x] Registers
+- [x] And Immediate `addi` 
+- [x] Multiply `mul`
 - [ ] Divide `div`
 - [ ] Set on Less Than Immediate `slti`
 - [ ] Unsigned Integers
